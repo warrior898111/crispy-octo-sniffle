@@ -9717,3 +9717,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [30Mar2025 01:51:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Suit Up]
 [30Mar2025 01:52:07.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was shot by Pillager
 [30Mar2025 02:00:44.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was shot by Skeleton
+[30Mar2025 02:08:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Getting an Upgrade]
+[30Mar2025 02:28:52.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Anonymity -Wood-]
+[30Mar2025 02:29:01.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Combo C-              ]
+[30Mar2025 02:29:12.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Combo A-              ]
+[30Mar2025 02:29:15.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Aerial Rave A-       ]
+[30Mar2025 02:29:17.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Aerial Rave B-       ]
+[30Mar2025 02:29:30.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15582, l='ServerLevel[Mundo nuevo]', x=-708.30, y=48.00, z=-396.30] died, message: 'Unemployed was slain by Zombie'
+[30Mar2025 02:30:45.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Abilities -Enemy Step-           ]
+[30Mar2025 02:30:56.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Abilities -Kick Jump-            ]
