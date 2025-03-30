@@ -9714,3 +9714,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [30Mar2025 01:38:21.574] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-746, y=-7, z=-788}
 [30Mar2025 01:38:37.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Proud Soul]
 [30Mar2025 01:41:10.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Stone Age]
+[30Mar2025 01:51:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Suit Up]
+[30Mar2025 01:52:07.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was shot by Pillager
+[30Mar2025 02:00:44.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was shot by Skeleton
