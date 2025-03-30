@@ -14850,3 +14850,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [30Mar2025 00:29:37.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=162, y=101, z=139} BlockPos{x=162, y=100, z=139}
 [30Mar2025 00:32:56.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give New God name @p
 [30Mar2025 00:32:56.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Username: codespace
+[30Mar2025 00:33:09.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Gravedigger]
+[30Mar2025 00:33:50.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[30Mar2025 00:33:50.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[30Mar2025 00:35:41.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was slain by Zombie
+[30Mar2025 00:35:42.414] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[30Mar2025 00:38:50.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[30Mar2025 00:38:50.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[30Mar2025 00:40:57.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <God> SAVE ME, HE WON'T LET ME GO, HE WANTS TO KILL ME
+[30Mar2025 00:40:57.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved too quickly! -98.45615031978852,-94.0,-75.7721615634514
+[30Mar2025 00:40:57.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6015ms or 120 ticks behind
+[30Mar2025 00:41:22.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OH, NO, HE'S HERE. RUN AWAY
+[30Mar2025 00:41:48.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved too quickly! 0.0,-10.187937214237184,0.0
+[30Mar2025 00:41:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 tried to swim in lava
+[30Mar2025 00:41:51.533] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[30Mar2025 00:42:05.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 tried to swim in lava
+[30Mar2025 00:42:07.309] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
