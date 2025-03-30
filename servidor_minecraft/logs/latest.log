@@ -9726,3 +9726,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [30Mar2025 02:29:30.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15582, l='ServerLevel[Mundo nuevo]', x=-708.30, y=48.00, z=-396.30] died, message: 'Unemployed was slain by Zombie'
 [30Mar2025 02:30:45.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Abilities -Enemy Step-           ]
 [30Mar2025 02:30:56.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Abilities -Kick Jump-            ]
+[30Mar2025 02:35:17.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Combo B-              ]
+[30Mar2025 02:35:26.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Rapid Slash-         ]
+[30Mar2025 02:44:03.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Safe Haven]
+[30Mar2025 02:44:18.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Call For Adventure]
+[30Mar2025 02:44:58.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player abbbdf32-cf00-3376-946e-75d802b5c46f timed out
+[30Mar2025 02:44:58.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player warrior898111
+[30Mar2025 02:44:58.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to warrior898111
+[30Mar2025 02:45:00.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41773ms or 835 ticks behind
+[30Mar2025 02:45:00.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 lost connection: Disconnected
+[30Mar2025 02:45:00.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 left the game
+[30Mar2025 02:45:00.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client warrior898111
+[30Mar2025 02:45:03.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior898111[/100.81.63.38:60826] logged in with entity id 24104 at (-1019.0198427879667, 100.0, -565.9283953623784)
+[30Mar2025 02:45:03.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 joined the game
+[30Mar2025 02:45:03.868] [Server thread/INFO] [Jade/]: Syncing config to warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f)
+[30Mar2025 02:45:04.649] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of warrior898111 (17)
+[30Mar2025 02:45:04.650] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to warrior898111
+[30Mar2025 02:45:07.120] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player abbbdf32-cf00-3376-946e-75d802b5c46f
+[30Mar2025 02:45:08.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player abbbdf32-cf00-3376-946e-75d802b5c46f
+[30Mar2025 02:45:08.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) successfully connected to voice chat
+[30Mar2025 02:51:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Isn't It Iron Pick]
