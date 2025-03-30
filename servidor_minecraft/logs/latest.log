@@ -9748,3 +9748,68 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [30Mar2025 00:12:22.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cea44c52-9a30-3565-961e-dcbec526f411
 [30Mar2025 00:12:22.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ediper (cea44c52-9a30-3565-961e-dcbec526f411) successfully connected to voice chat
 [30Mar2025 00:12:30.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ediper moved too quickly! -9.540871751740795,1.4199999868869781,3.826834819617943
+[30Mar2025 00:13:09.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ediper lost connection: Disconnected
+[30Mar2025 00:13:09.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ediper left the game
+[30Mar2025 00:13:09.710] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ediper
+[30Mar2025 00:13:29.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ediper[/100.126.60.98:51705] logged in with entity id 2089 at (105.8388878053329, 97.0, 72.85072670756225)
+[30Mar2025 00:13:29.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ediper joined the game
+[30Mar2025 00:13:30.032] [Server thread/INFO] [Jade/]: Syncing config to Ediper (cea44c52-9a30-3565-961e-dcbec526f411)
+[30Mar2025 00:13:30.460] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ediper (17)
+[30Mar2025 00:13:30.460] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ediper
+[30Mar2025 00:13:34.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player abbbdf32-cf00-3376-946e-75d802b5c46f timed out
+[30Mar2025 00:13:34.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player warrior898111
+[30Mar2025 00:13:34.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to warrior898111
+[30Mar2025 00:13:39.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cea44c52-9a30-3565-961e-dcbec526f411
+[30Mar2025 00:13:41.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cea44c52-9a30-3565-961e-dcbec526f411
+[30Mar2025 00:13:41.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ediper (cea44c52-9a30-3565-961e-dcbec526f411) successfully connected to voice chat
+[30Mar2025 00:13:44.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 lost connection: Disconnected
+[30Mar2025 00:13:44.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 left the game
+[30Mar2025 00:13:44.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client warrior898111
+[30Mar2025 00:14:20.364] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cea44c52-9a30-3565-961e-dcbec526f411 timed out
+[30Mar2025 00:14:20.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ediper
+[30Mar2025 00:14:20.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ediper
+[30Mar2025 00:14:30.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ediper lost connection: Disconnected
+[30Mar2025 00:14:30.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ediper left the game
+[30Mar2025 00:14:30.049] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ediper
+[30Mar2025 00:15:03.630] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e27d05a[id=<null>,name=Ediper,properties={},legacy=false] (/100.126.60.98:51731) lost connection: Disconnected
+[30Mar2025 00:15:16.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ediper[/100.126.60.98:51758] logged in with entity id 2203 at (103.15365109036298, 97.0, 75.32032878657024)
+[30Mar2025 00:15:16.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ediper joined the game
+[30Mar2025 00:15:16.387] [Server thread/INFO] [Jade/]: Syncing config to Ediper (cea44c52-9a30-3565-961e-dcbec526f411)
+[30Mar2025 00:15:16.865] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ediper (17)
+[30Mar2025 00:15:16.866] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ediper
+[30Mar2025 00:15:37.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cea44c52-9a30-3565-961e-dcbec526f411
+[30Mar2025 00:15:38.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cea44c52-9a30-3565-961e-dcbec526f411
+[30Mar2025 00:15:38.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ediper (cea44c52-9a30-3565-961e-dcbec526f411) successfully connected to voice chat
+[30Mar2025 00:16:07.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: warrior898111[/100.81.63.38:51723] logged in with entity id 2407 at (100.62518644965941, 97.0, 73.48937360213492)
+[30Mar2025 00:16:07.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 joined the game
+[30Mar2025 00:16:07.534] [Server thread/INFO] [Jade/]: Syncing config to warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f)
+[30Mar2025 00:16:08.055] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of warrior898111 (17)
+[30Mar2025 00:16:08.055] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to warrior898111
+[30Mar2025 00:16:12.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player abbbdf32-cf00-3376-946e-75d802b5c46f
+[30Mar2025 00:16:13.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ediper lost connection: Disconnected
+[30Mar2025 00:16:13.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ediper left the game
+[30Mar2025 00:16:13.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ediper
+[30Mar2025 00:16:13.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player abbbdf32-cf00-3376-946e-75d802b5c46f
+[30Mar2025 00:16:13.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) successfully connected to voice chat
+[30Mar2025 00:17:03.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Stone Age]
+[30Mar2025 00:17:29.310] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ed042d0[id=<null>,name=Ediper,properties={},legacy=false] (/100.126.60.98:51838) lost connection: Disconnected
+[30Mar2025 00:18:06.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ediper[/100.126.60.98:52056] logged in with entity id 2682 at (100.97187641660629, 96.9375, 72.3853852419373)
+[30Mar2025 00:18:06.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ediper joined the game
+[30Mar2025 00:18:06.471] [Server thread/INFO] [Jade/]: Syncing config to Ediper (cea44c52-9a30-3565-961e-dcbec526f411)
+[30Mar2025 00:18:06.754] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ediper (17)
+[30Mar2025 00:18:06.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ediper
+[30Mar2025 00:18:22.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cea44c52-9a30-3565-961e-dcbec526f411
+[30Mar2025 00:18:25.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cea44c52-9a30-3565-961e-dcbec526f411
+[30Mar2025 00:18:25.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ediper (cea44c52-9a30-3565-961e-dcbec526f411) successfully connected to voice chat
+[30Mar2025 00:19:06.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ediper lost connection: Disconnected
+[30Mar2025 00:19:06.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ediper left the game
+[30Mar2025 00:19:06.511] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ediper
+[30Mar2025 00:19:06.560] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Mar2025 00:20:27.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Getting an Upgrade]
+[30Mar2025 00:21:44.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Monster Hunter]
+[30Mar2025 00:21:49.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was slain by Zombie
+[30Mar2025 00:22:55.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Proud Soul]
+[30Mar2025 00:28:41.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: I wanna play with you
+[30Mar2025 00:29:37.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=162, y=101, z=139} BlockPos{x=162, y=100, z=139}
+[30Mar2025 00:32:56.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give New God name @p
+[30Mar2025 00:32:56.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Username: codespace
