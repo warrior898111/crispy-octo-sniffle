@@ -31,9 +31,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-30 03:19:37 +0000",
       "minecraft:taiga": "2025-03-30 01:02:57 +0000",
       "minecraft:beach": "2025-03-30 01:39:53 +0000",
       "minecraft:lukewarm_ocean": "2025-03-30 01:49:09 +0000",
+      "minecraft:snowy_taiga": "2025-03-30 03:19:07 +0000",
       "minecraft:plains": "2025-03-30 01:02:22 +0000"
     },
     "done": false
@@ -1658,6 +1660,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_helmet": {
+    "criteria": {
+      "has_leaves": "2025-03-30 03:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-03-30 02:46:28 +0000"
@@ -1802,6 +1810,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_leggings": {
+    "criteria": {
+      "has_leaves": "2025-03-30 03:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-30 02:50:03 +0000"
@@ -1850,6 +1864,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_chestplate": {
+    "criteria": {
+      "has_leaves": "2025-03-30 03:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-30 02:50:03 +0000"
@@ -1877,6 +1897,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-30 02:50:03 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_boots": {
+    "criteria": {
+      "has_leaves": "2025-03-30 03:30:49 +0000"
     },
     "done": true
   },
