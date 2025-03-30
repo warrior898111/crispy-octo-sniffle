@@ -1,49 +1,37 @@
 {
-  "slashblade:movesets": {
-    "criteria": {
-      "crafting": "2025-03-29 18:55:10 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-03-29 18:55:10 -0500"
+      "unlock_right_away": "2025-03-29 19:53:19 -0500"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2025-03-29 18:55:10 -0500"
+      "custom_test_name": "2025-03-29 19:53:19 -0500"
     },
     "done": true
   },
   "craftkaiju:craft_kaiju_begginings": {
     "criteria": {
-      "craft_kaiju_begginings": "2025-03-29 18:55:10 -0500"
+      "craft_kaiju_begginings": "2025-03-29 19:53:19 -0500"
     },
     "done": true
   },
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
-      "requirement": "2025-03-29 18:55:10 -0500"
+      "requirement": "2025-03-29 19:53:19 -0500"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-03-29 18:55:10 -0500"
-    },
-    "done": true
-  },
-  "scguns:main/root": {
-    "criteria": {
-      "gun": "2025-03-29 18:55:10 -0500"
+      "custom_test_name": "2025-03-29 19:53:19 -0500"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:plains": "2025-03-29 18:55:10 -0500"
+      "minecraft:plains": "2025-03-29 19:53:19 -0500"
     },
     "done": false
   },
