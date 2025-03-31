@@ -10235,3 +10235,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [31Mar2025 03:01:33.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70859, l='ServerLevel[Mundo nuevo]', x=-17.40, y=156.00, z=1043.95] died: Gearling was slain by warrior898111
 [31Mar2025 03:01:35.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70918, l='ServerLevel[Mundo nuevo]', x=-12.71, y=156.06, z=1046.83] died: Gearling was slain by warrior898111
 [31Mar2025 03:01:41.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/71104, l='ServerLevel[Mundo nuevo]', x=-9.73, y=156.00, z=1042.92] died: Gearling was slain by warrior898111
+[31Mar2025 03:03:50.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70745, l='ServerLevel[Mundo nuevo]', x=-13.85, y=139.15, z=1037.34] died: Gearling was slain by warrior898111
+[31Mar2025 03:09:00.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Cover Me with Diamonds]
