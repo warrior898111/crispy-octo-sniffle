@@ -13366,3 +13366,40 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [31Mar2025 02:41:06.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
 [31Mar2025 02:41:29.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [31Mar2025 02:41:29.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[31Mar2025 02:42:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[31Mar2025 02:45:14.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 went off with a bang
+[31Mar2025 02:45:17.954] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:46:13.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 went off with a bang
+[31Mar2025 02:46:14.667] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:46:29.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[31Mar2025 02:46:29.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[31Mar2025 02:48:54.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was slain by Wither Skeleton
+[31Mar2025 02:48:55.808] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:49:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was slain by Wither Skeleton
+[31Mar2025 02:49:08.012] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:49:13.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[31Mar2025 02:51:24.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[31Mar2025 02:51:29.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[31Mar2025 02:51:29.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[31Mar2025 02:52:36.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was taken down by warrior898111
+[31Mar2025 02:52:37.700] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:52:42.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[31Mar2025 02:53:09.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[31Mar2025 02:56:29.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[31Mar2025 02:56:29.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[31Mar2025 02:57:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[31Mar2025 02:59:07.790] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70816, l='ServerLevel[Mundo nuevo]', x=-15.50, y=144.00, z=1041.15] died: Gearling was eliminated by warrior898111
+[31Mar2025 02:59:09.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70794, l='ServerLevel[Mundo nuevo]', x=-15.15, y=139.00, z=1035.59] died: Gearling was decimated by warrior898111
+[31Mar2025 02:59:15.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70862, l='ServerLevel[Mundo nuevo]', x=-15.15, y=140.02, z=1037.39] died: Gearling was executed by warrior898111
+[31Mar2025 02:59:48.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/71116, l='ServerLevel[Mundo nuevo]', x=-18.64, y=140.88, z=1048.33] died: Gearling was slain by warrior898111
+[31Mar2025 02:59:48.924] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/71311, l='ServerLevel[Mundo nuevo]', x=-17.46, y=139.00, z=1047.20] died: Gearling was slain by warrior898111
+[31Mar2025 03:00:11.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70803, l='ServerLevel[Mundo nuevo]', x=-17.23, y=156.00, z=1044.87] died: Gearling was decimated by warrior898111
+[31Mar2025 03:00:12.851] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70861, l='ServerLevel[Mundo nuevo]', x=-21.77, y=156.00, z=1044.85] died: Gearling was decimated by warrior898111
+[31Mar2025 03:00:49.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[31Mar2025 03:01:29.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/71122, l='ServerLevel[Mundo nuevo]', x=-16.50, y=156.00, z=1043.87] died: Gearling was slain by warrior898111
+[31Mar2025 03:01:29.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[31Mar2025 03:01:29.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[31Mar2025 03:01:32.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70854, l='ServerLevel[Mundo nuevo]', x=-16.19, y=156.00, z=1047.01] died: Gearling was slain by warrior898111
+[31Mar2025 03:01:33.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70859, l='ServerLevel[Mundo nuevo]', x=-17.40, y=156.00, z=1043.95] died: Gearling was slain by warrior898111
+[31Mar2025 03:01:35.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70918, l='ServerLevel[Mundo nuevo]', x=-12.71, y=156.06, z=1046.83] died: Gearling was slain by warrior898111
+[31Mar2025 03:01:41.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/71104, l='ServerLevel[Mundo nuevo]', x=-9.73, y=156.00, z=1042.92] died: Gearling was slain by warrior898111
