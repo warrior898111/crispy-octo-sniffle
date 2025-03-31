@@ -13342,3 +13342,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [31Mar2025 02:31:06.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/54656, l='ServerLevel[Mundo nuevo]', x=-16.67, y=195.00, z=1034.49] died: Gearling was slain by warrior898111
 [31Mar2025 02:31:10.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was slain by Gearling
 [31Mar2025 02:31:12.252] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:31:30.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[31Mar2025 02:31:30.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[31Mar2025 02:31:56.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was slain by Gearling
+[31Mar2025 02:31:58.361] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:32:05.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[31Mar2025 02:32:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[31Mar2025 02:32:51.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/55941, l='ServerLevel[Mundo nuevo]', x=-21.74, y=190.00, z=1036.30] died: Gearling was slain by warrior898111
+[31Mar2025 02:32:53.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/55967, l='ServerLevel[Mundo nuevo]', x=-17.56, y=192.08, z=1036.49] died: Gearling was slain by warrior898111
+[31Mar2025 02:33:01.323] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/55945, l='ServerLevel[Mundo nuevo]', x=-16.90, y=192.25, z=1036.48] died: Gearling was slain by warrior898111
+[31Mar2025 02:36:29.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[31Mar2025 02:36:29.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[31Mar2025 02:36:35.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 went off with a bang
+[31Mar2025 02:36:42.130] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:38:45.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Upper Slash-         ]
+[31Mar2025 02:38:46.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Rapid Slash-         ]
+[31Mar2025 02:38:46.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Rising Star-         ]
+[31Mar2025 02:39:58.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 withered away whilst fighting Wither Skeleton
+[31Mar2025 02:40:03.110] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:40:27.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Maximum extension of Combo B]
+[31Mar2025 02:40:59.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was slain by Wither Skeleton
+[31Mar2025 02:41:01.178] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[31Mar2025 02:41:06.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[31Mar2025 02:41:29.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[31Mar2025 02:41:29.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
