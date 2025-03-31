@@ -10237,3 +10237,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [31Mar2025 03:01:41.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/71104, l='ServerLevel[Mundo nuevo]', x=-9.73, y=156.00, z=1042.92] died: Gearling was slain by warrior898111
 [31Mar2025 03:03:50.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70745, l='ServerLevel[Mundo nuevo]', x=-13.85, y=139.15, z=1037.34] died: Gearling was slain by warrior898111
 [31Mar2025 03:09:00.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Cover Me with Diamonds]
+[31Mar2025 03:17:14.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 froze to death
+[31Mar2025 03:17:18.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[31Mar2025 03:18:11.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[31Mar2025 03:20:16.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[31Mar2025 03:24:27.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/79308, l='ServerLevel[Mundo nuevo]', x=-63.74, y=263.88, z=1051.15] died: Gearling was burnt to a crisp whilst fighting warrior898111
+[31Mar2025 03:24:34.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/79347, l='ServerLevel[Mundo nuevo]', x=-63.84, y=263.00, z=1053.74] died: Gearling was slain by warrior898111
+[31Mar2025 03:24:36.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/79313, l='ServerLevel[Mundo nuevo]', x=-67.63, y=263.00, z=1059.54] died: Gearling was slain by warrior898111
