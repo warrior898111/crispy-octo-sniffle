@@ -67,6 +67,8 @@
       "minecraft:river": "2025-03-31 03:34:16 +0000",
       "minecraft:swamp": "2025-03-31 00:17:17 +0000",
       "minecraft:lush_caves": "2025-03-31 00:47:11 +0000",
+      "minecraft:ocean": "2025-04-01 21:45:53 +0000",
+      "minecraft:flower_forest": "2025-04-01 21:45:58 +0000",
       "minecraft:meadow": "2025-03-31 01:29:30 +0000",
       "minecraft:plains": "2025-03-31 00:16:03 +0000"
     },
@@ -1032,6 +1034,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-01 21:45:17 +0000",
       "cooked_beef": "2025-03-31 00:46:48 +0000",
       "cooked_cod": "2025-03-31 00:24:37 +0000",
       "golden_apple": "2025-03-31 02:16:12 +0000",
@@ -2707,6 +2710,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-04-01 21:42:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-04-01 21:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-01 21:13:23 +0000"
@@ -2737,6 +2752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-01 21:44:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-04-01 21:13:31 +0000"
@@ -2746,6 +2767,12 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-04-01 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-01 21:44:43 +0000"
     },
     "done": true
   },

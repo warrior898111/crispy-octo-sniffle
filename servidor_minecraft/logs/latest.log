@@ -9715,3 +9715,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [01Apr2025 21:18:11.940] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
 [01Apr2025 21:18:11.941] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
 [01Apr2025 21:18:13.178] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[01Apr2025 21:35:38.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set the time to 13000]
+[01Apr2025 21:44:04.080] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=757, y=-14, z=319}
