@@ -9958,3 +9958,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [01Apr2025 23:04:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set the time to 6000]
 [01Apr2025 23:04:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set the time to 18000]
 [01Apr2025 23:08:13.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/54094, l='ServerLevel[Mundo nuevo]', x=1184.30, y=108.00, z=800.96] died, message: 'Unemployed was slain by Zombie'
+[01Apr2025 23:11:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[01Apr2025 23:12:51.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/61370, l='ServerLevel[Mundo nuevo]', x=1183.47, y=108.56, z=793.52] died, message: 'Unemployed was slain by Zombie'
+[01Apr2025 23:13:15.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/61589, l='ServerLevel[Mundo nuevo]', x=1183.43, y=108.00, z=800.35] died, message: 'Unemployed was slain by Zombie'
+[01Apr2025 23:13:38.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/61782, l='ServerLevel[Mundo nuevo]', x=1184.51, y=108.38, z=794.70] died, message: 'Unemployed was slain by Zombie'
+[01Apr2025 23:14:35.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/62104, l='ServerLevel[Mundo nuevo]', x=1184.37, y=108.56, z=793.67] died, message: 'Farmer was slain by Zombie'
+[01Apr2025 23:15:39.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]

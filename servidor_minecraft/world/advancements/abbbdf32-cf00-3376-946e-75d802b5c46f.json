@@ -2859,79 +2859,91 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-01 23:09:48 +0000"
+      "log_spam_fixer": "2025-04-01 23:29:48 +0000"
     },
     "done": false
+  },
+  "toughasnails:recipes/food/pumpkin_juice": {
+    "criteria": {
+      "has_pumpkin": "2025-04-01 23:22:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-01 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-01 23:27:02 +0000"
     },
     "done": true
   },
@@ -2941,9 +2953,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-01 23:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-01 23:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-01 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-01 23:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-01 23:27:02 +0000"
     },
     "done": true
   },
@@ -2959,6 +2995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-01 23:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-01 23:07:33 +0000"
@@ -2968,6 +3010,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-01 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-01 23:22:58 +0000"
     },
     "done": true
   },
@@ -2986,6 +3034,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-04-01 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-01 23:20:42 +0000"
     },
     "done": true
   },
