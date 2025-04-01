@@ -9719,3 +9719,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [01Apr2025 02:44:07.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player abbbdf32-cf00-3376-946e-75d802b5c46f
 [01Apr2025 02:44:08.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player abbbdf32-cf00-3376-946e-75d802b5c46f
 [01Apr2025 02:44:08.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) successfully connected to voice chat
+[01Apr2025 03:04:16.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 lost connection: Disconnected
+[01Apr2025 03:04:16.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 left the game
+[01Apr2025 03:04:16.458] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client warrior898111
