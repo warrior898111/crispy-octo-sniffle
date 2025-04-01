@@ -13325,3 +13325,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [01Apr2025 22:56:54.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/54144, l='ServerLevel[Mundo nuevo]', x=1094.34, y=107.84, z=812.49] died, message: 'Leatherworker was slain by Zombie'
 [01Apr2025 22:59:48.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [01Apr2025 22:59:48.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Apr2025 23:00:19.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/54163, l='ServerLevel[Mundo nuevo]', x=1085.63, y=107.94, z=807.61] died, message: 'Leatherworker was shot by Redcoat'
+[01Apr2025 23:04:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set the time to 6000]
+[01Apr2025 23:04:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set the time to 18000]
+[01Apr2025 23:04:48.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Apr2025 23:04:48.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Apr2025 23:08:13.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/54094, l='ServerLevel[Mundo nuevo]', x=1184.30, y=108.00, z=800.96] died, message: 'Unemployed was slain by Zombie'
+[01Apr2025 23:09:48.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Apr2025 23:09:48.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
