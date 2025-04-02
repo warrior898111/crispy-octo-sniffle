@@ -52,3 +52,7 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [02Apr2025 02:50:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
 [02Apr2025 02:50:53.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
 [02Apr2025 02:53:29.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 03:22:49.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[02Apr2025 03:25:39.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[02Apr2025 03:28:36.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was taken down by warrior898111
+[02Apr2025 03:30:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
