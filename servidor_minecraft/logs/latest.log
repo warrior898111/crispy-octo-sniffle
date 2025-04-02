@@ -9737,3 +9737,45 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [02Apr2025 19:33:28.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/5202, l='ServerLevel[Mundo nuevo]', x=-274.22, y=33.41, z=169.36] died: Radiation Director was slain by warrior898111
 [02Apr2025 19:35:48.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Hot Stuff]
 [02Apr2025 19:35:58.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 burned to death
+[02Apr2025 19:43:55.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has completed the challenge [Mystic Wisdom]
+[02Apr2025 19:44:32.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 tried to swim in lava
+[02Apr2025 19:44:48.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[02Apr2025 19:46:18.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[02Apr2025 19:50:53.090] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[02Apr2025 19:50:53.316] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[02Apr2025 19:51:26.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Strange Biomes]
+[02Apr2025 19:51:26.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [The Dust Settles]
+[02Apr2025 19:51:35.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-58, y=79, z=-242} BlockPos{x=-59, y=78, z=-243}
+[02Apr2025 19:53:25.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has reached the goal [In the Hall of the Piglin King]
+[02Apr2025 19:54:05.197] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/8981, l='ServerLevel[Mundo nuevo]', x=58.54, y=39.31, z=-373.61] died: Piglin Knight was slain by warrior898111
+[02Apr2025 19:54:05.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/8974, l='ServerLevel[Mundo nuevo]', x=57.54, y=36.00, z=-374.10] died: Piglin Knight was slain by warrior898111
+[02Apr2025 19:55:35.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [War Pigs]
+[02Apr2025 19:57:01.249] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/9150, l='ServerLevel[Mundo nuevo]', x=103.19, y=37.42, z=-406.75] died: Piglin Knight was killed by warrior898111 using magic
+[02Apr2025 19:57:08.697] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:08.698] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:08.698] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:08.698] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:08.698] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:20.447] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:20.447] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:20.448] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:20.448] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:20.448] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:57:20.448] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:02.594] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:02.595] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:02.595] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:02.595] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:02.595] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:02.595] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:02.596] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:02.596] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:07.948] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:07.948] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:07.948] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:07.948] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:07.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:07.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:07.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:07.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 19:58:07.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
