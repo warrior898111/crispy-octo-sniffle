@@ -2932,6 +2932,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-02 03:37:22 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/scorched/earths_corpse": {
+    "criteria": {
+      "earths_corpse": "2025-04-02 03:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-02 02:57:35 +0000"
@@ -3019,6 +3031,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-01 23:07:33 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/cowboy/callwell": {
+    "criteria": {
+      "callwell": "2025-04-02 03:35:32 +0000"
     },
     "done": true
   },
