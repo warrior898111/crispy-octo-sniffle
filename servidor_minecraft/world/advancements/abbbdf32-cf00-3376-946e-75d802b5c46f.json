@@ -1011,7 +1011,8 @@
       "cooked_beef": "2025-03-31 00:46:48 +0000",
       "cooked_cod": "2025-03-31 00:24:37 +0000",
       "golden_apple": "2025-03-31 02:16:12 +0000",
-      "golden_carrot": "2025-03-31 01:39:32 +0000"
+      "golden_carrot": "2025-03-31 01:39:32 +0000",
+      "enchanted_golden_apple": "2025-04-02 20:53:19 +0000"
     },
     "done": false
   },
@@ -3191,7 +3192,8 @@
   },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
-      "minecraft:fortress": "2025-04-02 04:31:53 +0000"
+      "minecraft:fortress": "2025-04-02 04:31:53 +0000",
+      "nova_structures:nether_skeleton_tower_basalt": "2025-04-02 20:47:06 +0000"
     },
     "done": false
   },
@@ -3387,6 +3389,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:00:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-04-02 19:28:05 +0000"
@@ -3416,6 +3490,12 @@
       "has_potato": "2025-04-02 20:02:22 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "lamp": "2025-04-02 20:59:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
@@ -3487,6 +3567,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-04-02 20:49:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
@@ -3541,6 +3627,12 @@
     },
     "done": true
   },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2025-04-02 20:58:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-04-02 19:22:35 +0000"
@@ -3559,6 +3651,12 @@
     },
     "done": true
   },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_pick": "2025-04-02 20:55:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-04-02 20:08:35 +0000"
@@ -3576,6 +3674,12 @@
       "requirement": "2025-04-02 20:39:19 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-04-02 20:47:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
@@ -3598,6 +3702,12 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-04-02 19:55:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-04-02 20:50:53 +0000"
     },
     "done": true
   },
@@ -3670,6 +3780,12 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-02 19:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-04-02 20:57:19 +0000"
     },
     "done": true
   },
@@ -3780,6 +3896,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
       "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-02 20:53:10 +0000"
     },
     "done": true
   },
