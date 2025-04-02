@@ -9709,3 +9709,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [02Apr2025 19:07:22.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
 [02Apr2025 19:08:16.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
 [02Apr2025 19:08:56.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 19:10:26.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 19:10:33.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 19:10:34.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 19:10:37.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 19:10:41.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 19:18:01.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 19:18:50.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=55, z=230} BlockPos{x=-105, y=56, z=231}
+[02Apr2025 19:18:50.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=55, z=230} BlockPos{x=-105, y=56, z=231}
+[02Apr2025 19:18:50.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=55, z=230} BlockPos{x=-105, y=56, z=231}
+[02Apr2025 19:18:50.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=55, z=230} BlockPos{x=-105, y=56, z=231}
+[02Apr2025 19:18:50.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=55, z=230} BlockPos{x=-105, y=56, z=231}
+[02Apr2025 19:18:50.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=55, z=230} BlockPos{x=-105, y=56, z=231}
+[02Apr2025 19:18:50.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=55, z=230} BlockPos{x=-105, y=56, z=231}
+[02Apr2025 19:19:42.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=64, z=228} BlockPos{x=-199, y=65, z=228}
+[02Apr2025 19:19:44.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-201, y=65, z=228} BlockPos{x=-200, y=66, z=228}
+[02Apr2025 19:22:28.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has reached the goal [Pocket Edition Alpha]
+[02Apr2025 19:25:29.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/228, l='ServerLevel[Mundo nuevo]', x=-249.59, y=45.00, z=134.41] died: Ghast Sentry was discretely eliminated
+[02Apr2025 19:28:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Who is Cutting Onions?]
+[02Apr2025 19:28:17.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 fell from a high place
+[02Apr2025 19:28:27.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Apr2025 19:28:41.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 burned to death
