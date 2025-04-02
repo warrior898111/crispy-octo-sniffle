@@ -12971,3 +12971,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [02Apr2025 05:11:16.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [02Apr2025 05:16:16.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [02Apr2025 05:16:16.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 05:21:16.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 05:21:16.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 05:26:16.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 05:26:16.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
