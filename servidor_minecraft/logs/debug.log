@@ -13347,3 +13347,53 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [01Apr2025 23:24:48.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [01Apr2025 23:29:48.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [01Apr2025 23:29:48.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Apr2025 23:34:48.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Apr2025 23:34:48.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Apr2025 23:39:14.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70674, l='ServerLevel[Mundo nuevo]', x=-24.59, y=212.00, z=934.88] died: Gearling was slain by warrior898111
+[01Apr2025 23:39:15.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70683, l='ServerLevel[Mundo nuevo]', x=-26.07, y=212.00, z=937.00] died: Gearling was slain by warrior898111
+[01Apr2025 23:39:19.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70721, l='ServerLevel[Mundo nuevo]', x=-24.52, y=213.00, z=936.54] died: Gearling was slain by warrior898111
+[01Apr2025 23:39:19.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70725, l='ServerLevel[Mundo nuevo]', x=-23.76, y=213.00, z=934.92] died: Gearling was slain by warrior898111
+[01Apr2025 23:39:25.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/70746, l='ServerLevel[Mundo nuevo]', x=-26.06, y=212.06, z=935.61] died: Gearling was slain by warrior898111
+[01Apr2025 23:39:48.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Apr2025 23:39:48.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Apr2025 23:44:48.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Apr2025 23:44:48.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Apr2025 23:49:48.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Apr2025 23:49:48.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Apr2025 23:54:48.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Apr2025 23:54:48.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[01Apr2025 23:56:22.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[01Apr2025 23:58:14.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[01Apr2025 23:59:48.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[01Apr2025 23:59:48.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:03:49.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 fell from a high place
+[02Apr2025 00:03:52.209] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[02Apr2025 00:04:48.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:04:48.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:09:09.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/76348, l='ServerLevel[Mundo nuevo]', x=1094.25, y=107.84, z=812.49] died, message: 'Nitwit was slain by Zombie'
+[02Apr2025 00:09:48.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:09:48.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:14:48.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:14:48.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:19:48.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:19:48.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:19:52.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 fell from a high place
+[02Apr2025 00:19:54.776] [Server thread/DEBUG] [twilightforest/]: Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) respawned and received items held in storage
+[02Apr2025 00:24:48.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:24:48.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:29:48.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:29:48.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:34:48.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:34:48.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:39:13.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[02Apr2025 00:39:48.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:39:48.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:40:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[02Apr2025 00:44:48.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:44:48.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:49:48.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:49:48.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:54:48.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:54:48.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 00:59:48.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 00:59:48.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
