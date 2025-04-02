@@ -9779,3 +9779,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [02Apr2025 19:58:07.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [02Apr2025 19:58:07.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [02Apr2025 19:58:07.949] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:00:34.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/9472, l='ServerLevel[Mundo nuevo]', x=81.44, y=36.00, z=-422.49] died: Piglin Paratrooper was slain by warrior898111
+[02Apr2025 20:00:42.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 20:00:42.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/9136, l='ServerLevel[Mundo nuevo]', x=74.81, y=37.71, z=-421.02] died: Piglin Knight was slain by warrior898111
+[02Apr2025 20:00:50.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/9188, l='ServerLevel[Mundo nuevo]', x=74.47, y=36.02, z=-422.70] died: Piglin Knight was slain by warrior898111
+[02Apr2025 20:00:54.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 20:00:55.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/9187, l='ServerLevel[Mundo nuevo]', x=70.35, y=37.25, z=-421.31] died: Piglin Knight was slain by warrior898111
+[02Apr2025 20:01:24.603] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:01:24.603] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:01:24.603] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:01:24.603] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:01:24.603] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:01:24.604] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:02:22.946] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:02:22.947] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:02:22.947] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[02Apr2025 20:02:22.947] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:02:22.947] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Apr2025 20:03:59.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Blade Arts -Jumping Slash-         ]
+[02Apr2025 20:04:02.497] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/9120, l='ServerLevel[Mundo nuevo]', x=63.61, y=36.35, z=-409.70] died: Piglin Knight was killed by warrior898111 using magic
+[02Apr2025 20:07:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [UNLIMITED POWER!!!]
+[02Apr2025 20:07:53.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 20:08:11.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 went off with a bang
+[02Apr2025 20:08:32.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 20:08:37.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has reached the goal [Ceci n'est pas un blaze]
+[02Apr2025 20:08:37.150] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/9028, l='ServerLevel[Mundo nuevo]', x=91.70, y=45.68, z=-367.49] died: Pipeline Sentry was slain by warrior898111
+[02Apr2025 20:08:39.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Pyromancer'/12311, l='ServerLevel[Mundo nuevo]', x=92.75, y=46.00, z=-361.39] died: Piglin Pyromancer was doomed to fall by warrior898111
+[02Apr2025 20:08:45.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 20:08:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was burnt to a crisp whilst fighting Piglin Knight
+[02Apr2025 20:09:07.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 tried to swim in lava to escape Piglin Knight
+[02Apr2025 20:09:11.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/12315, l='ServerLevel[Mundo nuevo]', x=91.21, y=36.00, z=-359.88] died: Piglin Knight tried to swim in lava
+[02Apr2025 20:09:13.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
