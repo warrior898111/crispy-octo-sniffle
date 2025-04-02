@@ -815,6 +815,7 @@
       "minecraft:piglin_brute": "2025-04-02 19:54:05 +0000",
       "minecraft:creeper": "2025-03-31 00:23:24 +0000",
       "minecraft:evoker": "2025-04-01 22:22:56 +0000",
+      "minecraft:slime": "2025-04-02 20:39:26 +0000",
       "minecraft:phantom": "2025-04-02 02:06:33 +0000",
       "minecraft:zombified_piglin": "2025-04-02 04:25:56 +0000",
       "minecraft:witch": "2025-03-31 01:24:07 +0000",
@@ -3392,6 +3393,12 @@
     },
     "done": true
   },
+  "scguns:main/diamond_steel/cyclone": {
+    "criteria": {
+      "cyclone": "2025-04-02 20:36:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
@@ -3437,6 +3444,12 @@
       "customtrigger": "2025-04-02 20:03:59 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-04-02 20:44:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
@@ -3555,6 +3568,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-02 19:35:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-04-02 20:39:19 +0000"
     },
     "done": true
   },
@@ -3734,7 +3753,9 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2025-04-02 19:51:26 +0000"
+      "incendium:ash_barrens": "2025-04-02 19:51:26 +0000",
+      "incendium:weeping_valley": "2025-04-02 20:43:01 +0000",
+      "incendium:toxic_heap": "2025-04-02 20:39:19 +0000"
     },
     "done": false
   },

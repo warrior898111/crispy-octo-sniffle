@@ -9859,3 +9859,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [02Apr2025 20:38:06.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/13410, l='ServerLevel[Mundo nuevo]', x=86.20, y=71.19, z=-335.69] died: Piglin Archer was silenced
 [02Apr2025 20:39:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Radioactive]
 [02Apr2025 20:39:26.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/18228, l='ServerLevel[Mundo nuevo]', x=-298.08, y=147.00, z=-440.82] died: Toxic Slime was silently taken down
+[02Apr2025 20:41:23.838] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/18021, l='ServerLevel[Mundo nuevo]', x=-325.41, y=46.03, z=-394.00] died: Ghast Sentry was silently taken down
+[02Apr2025 20:43:19.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19592, l='ServerLevel[Mundo nuevo]', x=-787.21, y=135.23, z=-124.56] died: Restless Spirit starved to death
+[02Apr2025 20:43:23.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19647, l='ServerLevel[Mundo nuevo]', x=-871.76, y=74.10, z=-210.84] died: Restless Spirit starved to death
+[02Apr2025 20:43:24.497] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19653, l='ServerLevel[Mundo nuevo]', x=-822.80, y=86.79, z=-173.73] died: Restless Spirit starved to death
+[02Apr2025 20:43:24.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19656, l='ServerLevel[Mundo nuevo]', x=-830.50, y=90.36, z=-195.50] died: Restless Spirit starved to death
+[02Apr2025 20:43:24.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19658, l='ServerLevel[Mundo nuevo]', x=-825.77, y=83.11, z=-187.03] died: Restless Spirit starved to death
+[02Apr2025 20:43:25.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19663, l='ServerLevel[Mundo nuevo]', x=-833.87, y=104.87, z=-152.67] died: Restless Spirit starved to death
+[02Apr2025 20:43:25.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19666, l='ServerLevel[Mundo nuevo]', x=-812.33, y=107.31, z=-148.71] died: Restless Spirit starved to death
+[02Apr2025 20:44:44.557] [Worker-Main-122/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[02Apr2025 20:46:38.870] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element nova_structures:nether_skeleton_tower_basalt took 5 ms
+[02Apr2025 20:46:49.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Teleported warrior898111 to -1247.500000, 56.450493, -559.500000]
+[02Apr2025 20:46:49.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
+[02Apr2025 20:49:00.392] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_flame_located (cataclysm:burning_arena) took 693 ms
+[02Apr2025 20:49:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Teleported warrior898111 to -4863.500000, 80.497287, -2319.500000]
+[02Apr2025 20:49:08.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [A Burning Arena]
+[02Apr2025 20:49:33.087] [Worker-Main-130/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[02Apr2025 20:49:40.897] [Worker-Main-144/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[02Apr2025 20:49:42.378] [Worker-Main-137/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[02Apr2025 20:49:43.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
