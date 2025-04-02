@@ -57,3 +57,10 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [02Apr2025 03:28:36.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was taken down by warrior898111
 [02Apr2025 03:30:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
 [02Apr2025 03:35:41.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[02Apr2025 03:59:33.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Incendium]
+[02Apr2025 03:59:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [We Need to Go Deeper]
+[02Apr2025 03:59:36.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6767ms or 135 ticks behind
+[02Apr2025 03:59:38.654] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Apr2025 03:59:38.661] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Apr2025 04:00:41.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[02Apr2025 04:01:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
