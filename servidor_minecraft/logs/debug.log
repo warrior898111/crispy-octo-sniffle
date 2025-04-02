@@ -14365,3 +14365,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [02Apr2025 21:55:23.005] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of warrior898111
 [02Apr2025 21:58:20.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [02Apr2025 21:58:20.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 22:03:20.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 22:03:20.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[02Apr2025 22:08:20.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[02Apr2025 22:08:20.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
