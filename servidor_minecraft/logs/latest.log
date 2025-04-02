@@ -9925,3 +9925,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [02Apr2025 04:23:35.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player warrior898111 (abbbdf32-cf00-3376-946e-75d802b5c46f) successfully connected to voice chat
 [02Apr2025 04:25:12.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=51, z=179} BlockPos{x=12, y=50, z=178}
 [02Apr2025 04:26:36.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 04:31:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [A Terrible Fortress]
+[02Apr2025 04:36:54.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 has made the advancement [Into Fire]
