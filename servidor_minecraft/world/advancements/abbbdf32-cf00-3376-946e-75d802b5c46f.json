@@ -3389,77 +3389,39 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
+      "waste": "2025-04-02 19:26:35 +0000",
+      "office_treasure": "2025-04-02 19:43:55 +0000",
+      "junk": "2025-04-02 19:22:28 +0000",
+      "treasure": "2025-04-02 19:27:50 +0000",
+      "office": "2025-04-02 19:34:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "incendium:toxic_heap/nuclear_fusion": {
     "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
+      "incendium:junk": "2025-04-02 19:22:28 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
+      "has_slime_ball": "2025-04-02 19:22:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
+      "has_slime_ball": "2025-04-02 19:22:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
+      "has_slime_ball": "2025-04-02 19:22:35 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-02 21:25:36 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
@@ -3467,9 +3429,161 @@
     },
     "done": true
   },
-  "scguns:main/diamond_steel/cyclone": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "cyclone": "2025-04-02 20:36:05 +0000"
+      "has_obsidian": "2025-04-02 19:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-04-02 19:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-02 19:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-04-02 19:51:26 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-04-02 19:51:26 +0000",
+      "incendium:weeping_valley": "2025-04-02 20:43:01 +0000",
+      "incendium:toxic_heap": "2025-04-02 20:39:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-04-02 19:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-02 19:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-02 19:51:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-04-02 19:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-04-02 19:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-04-02 19:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-02 19:55:41 +0000"
     },
     "done": true
   },
@@ -3485,45 +3599,49 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-02 20:02:22 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_troll": {
-    "criteria": {
-      "lamp": "2025-04-02 20:59:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-02 20:17:35 +0000"
-    },
-    "done": true
-  },
-  "eeeabsmobs:eeeabsmobs/kill_all_immortal_mob": {
-    "criteria": {
-      "eeeabsmobs:immortal_golem": "2025-04-02 21:09:49 +0000",
-      "eeeabsmobs:immortal_shaman": "2025-04-02 21:09:52 +0000",
-      "eeeabsmobs:immortal_knight": "2025-04-02 21:09:49 +0000",
-      "eeeabsmobs:immortal": "2025-04-02 21:04:56 +0000",
-      "eeeabsmobs:immortal_executioner": "2025-04-02 21:09:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:toxic_heap/mystic_wisdom": {
-    "criteria": {
-      "waste": "2025-04-02 19:26:35 +0000",
-      "office_treasure": "2025-04-02 19:43:55 +0000",
-      "junk": "2025-04-02 19:22:28 +0000",
-      "treasure": "2025-04-02 19:27:50 +0000",
-      "office": "2025-04-02 19:34:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-02 20:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-04-02 20:02:22 +0000"
     },
@@ -3535,15 +3653,21 @@
     },
     "done": true
   },
-  "nova_structures:nether/find_piglins": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "nova_structures:piglin_camp": "2025-04-02 20:44:00 +0000"
+      "has_pointed_dripstone": "2025-04-02 20:04:38 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+      "has_prismarine_crystals": "2025-04-02 20:04:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-04-02 20:07:49 +0000"
     },
     "done": true
   },
@@ -3553,51 +3677,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+      "has_dark_prismarine": "2025-04-02 20:08:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
+      "has_dark_prismarine": "2025-04-02 20:08:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-02 20:08:44 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_burning_arena": {
-    "criteria": {
-      "arena": "2025-04-02 20:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-02 20:17:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/enter_castle": {
-    "criteria": {
-      "requirement": "2025-04-02 19:53:25 +0000"
+      "has_dark_prismarine": "2025-04-02 20:08:35 +0000"
     },
     "done": true
   },
@@ -3607,15 +3701,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+  "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
-      "has_dark_prismarine": "2025-04-02 20:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
+      "has_planks": "2025-04-02 20:08:44 +0000"
     },
     "done": true
   },
@@ -3637,18 +3725,6 @@
     },
     "done": true
   },
-  "twilightforest:mazebreaker": {
-    "criteria": {
-      "pick": "2025-04-02 20:58:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-04-02 19:22:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-04-02 20:08:44 +0000"
@@ -3661,129 +3737,9 @@
     },
     "done": true
   },
-  "twilightforest:fiery_set": {
-    "criteria": {
-      "fiery_pick": "2025-04-02 20:55:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-04-02 20:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-02 19:35:48 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_bluff": {
-    "criteria": {
-      "bluff": "2025-04-02 21:21:39 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-04-02 20:39:19 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_skeleton_tower": {
-    "criteria": {
-      "nova_structures:nether_skeleton_tower_basalt": "2025-04-02 20:47:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-04-02 19:22:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/nuclear_fusion": {
-    "criteria": {
-      "incendium:junk": "2025-04-02 19:22:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-04-02 19:55:41 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_revenant": {
-    "criteria": {
-      "endergolem": "2025-04-02 20:50:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:ash_barrens": "2025-04-02 19:51:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-04-02 19:28:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-02 20:08:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-04-02 20:02:22 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/treated_brass/dozier_rl": {
-    "criteria": {
-      "dozier_rl": "2025-04-02 21:23:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_hoglin_stable": "2025-04-02 19:55:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
     },
     "done": true
   },
@@ -3793,33 +3749,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
+      "has_planks": "2025-04-02 20:08:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_smithing_trim_template": "2025-04-02 19:55:41 +0000"
+      "has_blaze_powder": "2025-04-02 20:17:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "has_light_blue_terracotta": "2025-04-02 20:57:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-04-02 20:04:38 +0000"
+      "has_blaze_powder": "2025-04-02 20:17:35 +0000"
     },
     "done": true
   },
@@ -3829,101 +3773,39 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/pipeline/unlimited_power": {
+  "scguns:main/diamond_steel/cyclone": {
     "criteria": {
-      "requirement": "2025-04-02 20:07:49 +0000"
+      "cyclone": "2025-04-02 20:36:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+  "incendium:toxic_heap/root": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+      "requirement": "2025-04-02 20:39:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "nova_structures:nether/find_piglins": {
     "criteria": {
-      "has_slime_ball": "2025-04-02 19:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-02 20:00:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-04-02 19:51:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-04-02 20:04:41 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ignis": {
-    "criteria": {
-      "ignis": "2025-04-02 21:25:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-04-02 19:32:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2025-04-02 20:08:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-04-02 20:08:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:ash_barrens": "2025-04-02 19:51:26 +0000",
-      "incendium:weeping_valley": "2025-04-02 20:43:01 +0000",
-      "incendium:toxic_heap": "2025-04-02 20:39:19 +0000"
+      "nova_structures:piglin_camp": "2025-04-02 20:44:00 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "nova_structures:nether/find_skeleton_tower": {
     "criteria": {
-      "has_glowstone_dust": "2025-04-02 19:51:41 +0000"
+      "nova_structures:nether_skeleton_tower_basalt": "2025-04-02 20:47:06 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-04-02 20:49:08 +0000"
     },
     "done": true
   },
-  "incendium:ash_barrens/root": {
+  "cataclysm:kill_revenant": {
     "criteria": {
-      "requirement": "2025-04-02 19:51:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+      "endergolem": "2025-04-02 20:50:53 +0000"
     },
     "done": true
   },
@@ -3933,9 +3815,193 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+  "twilightforest:fiery_set": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+      "fiery_pick": "2025-04-02 20:55:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-04-02 20:57:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2025-04-02 20:58:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "lamp": "2025-04-02 20:59:06 +0000"
+    },
+    "done": false
+  },
+  "eeeabsmobs:eeeabsmobs/kill_all_immortal_mob": {
+    "criteria": {
+      "eeeabsmobs:immortal_golem": "2025-04-02 21:09:49 +0000",
+      "eeeabsmobs:immortal_shaman": "2025-04-02 21:09:52 +0000",
+      "eeeabsmobs:immortal_knight": "2025-04-02 21:09:49 +0000",
+      "eeeabsmobs:immortal": "2025-04-02 21:04:56 +0000",
+      "eeeabsmobs:immortal_executioner": "2025-04-02 21:09:19 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-04-02 21:21:39 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/treated_brass/dozier_rl": {
+    "criteria": {
+      "dozier_rl": "2025-04-02 21:23:12 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-04-02 21:25:00 +0000"
+    },
+    "done": true
+  },
+  "craftkaiju:advancment_ancient_appetizers": {
+    "criteria": {
+      "advancment_ancient_appetizers": "2025-04-02 21:27:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-02 21:55:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-02 21:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-02 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-02 21:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-02 21:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-02 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-02 21:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-02 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-02 21:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-02 21:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-02 21:53:50 +0000"
     },
     "done": true
   },
