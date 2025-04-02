@@ -808,6 +808,7 @@
       "minecraft:skeleton": "2025-03-31 00:23:30 +0000",
       "minecraft:ravager": "2025-03-31 02:14:22 +0000",
       "minecraft:ghast": "2025-04-02 04:05:24 +0000",
+      "minecraft:hoglin": "2025-04-02 20:16:02 +0000",
       "minecraft:vindicator": "2025-03-31 01:19:35 +0000",
       "minecraft:magma_cube": "2025-04-02 04:06:15 +0000",
       "minecraft:spider": "2025-03-31 00:25:30 +0000",
@@ -3409,6 +3410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-02 20:17:35 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
       "waste": "2025-04-02 19:26:35 +0000",
@@ -3470,6 +3477,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-04-02 19:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-02 20:17:35 +0000"
     },
     "done": true
   },
@@ -3650,6 +3663,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-04-02 20:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-02 20:17:35 +0000"
     },
     "done": true
   },
