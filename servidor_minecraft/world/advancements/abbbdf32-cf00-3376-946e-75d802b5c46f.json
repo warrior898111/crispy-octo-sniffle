@@ -3384,9 +3384,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-02 19:28:05 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
-      "junk": "2025-04-02 19:22:28 +0000"
+      "waste": "2025-04-02 19:26:35 +0000",
+      "junk": "2025-04-02 19:22:28 +0000",
+      "treasure": "2025-04-02 19:27:50 +0000",
+      "office": "2025-04-02 19:34:28 +0000"
     },
     "done": false
   },
@@ -3408,9 +3417,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-02 19:28:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-02 19:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-04-02 19:32:27 +0000"
     },
     "done": true
   },
