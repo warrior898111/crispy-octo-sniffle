@@ -45,3 +45,10 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [02Apr2025 02:33:31.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
 [02Apr2025 02:40:00.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
 [02Apr2025 02:40:00.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 02:45:33.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior898111 was killed by Evoker using magic
+[02Apr2025 02:45:33.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 02:46:13.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 02:47:56.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Creative Mode]
+[02Apr2025 02:50:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [warrior898111: Set own game mode to Survival Mode]
+[02Apr2025 02:50:53.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
+[02Apr2025 02:53:29.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: warrior898111 moved wrongly!
